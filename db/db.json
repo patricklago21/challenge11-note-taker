@@ -2,11 +2,13 @@
     "notes": [
         {
             "title":"Test Title",
-            "text":"Test text"
+            "text":"Test text",
+            "id": "0"
         },
         {
             "title":"Patrick's Title",
-            "text":"Patrick's Text"
+            "text":"Patrick's Text",
+            "id": "1"
         }
     ]
 }
